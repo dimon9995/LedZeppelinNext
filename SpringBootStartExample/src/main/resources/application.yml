@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+  app:
+    title: "Spring Boot Config Demo"
+    description: "Это наш пример приложения с использованием YAML."
+
+    author:
+      name: "Дмитрий Михайлов"
+      email: "mikhailov1500@mail.ru"
